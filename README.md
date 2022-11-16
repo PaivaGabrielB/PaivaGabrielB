@@ -23,6 +23,6 @@
 </div>
 
   
-- 🔭 Desenvolvedor Full-Stack.
-- 📚 Estudando TypeScript.
+- 🔭 Desenvolvedor Full-Stack em crescimento.
+
 
